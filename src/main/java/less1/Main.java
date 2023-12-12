@@ -79,7 +79,7 @@ public class Main {
         }
         printExecutionTime("Insert in the middle of " + listType, startTime);
     }
-
+//
     private static void printExecutionTime(String action, long startTime) {
         System.out.printf("%s: %s(ms)\n", action, System.currentTimeMillis() - startTime);
     }
