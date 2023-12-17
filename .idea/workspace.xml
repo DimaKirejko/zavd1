@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3afbad72-f291-421f-a1bf-741a90f4b1d8" name="Changes" comment="commit for 1 task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3afbad72-f291-421f-a1bf-741a90f4b1d8" name="Changes" comment="commit 1 task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="zavd2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702830794461</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 1 task">
+      <created>1702831489900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702831489900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit for 2 task" />
     <MESSAGE value="commit for 1 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit for 1 task" />
+    <MESSAGE value="commit 1 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1 task" />
   </component>
 </project>
